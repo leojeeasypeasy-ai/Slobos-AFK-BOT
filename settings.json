@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Onlinebot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "SurvivalSMPwarez.aternos.me:44123",
+    "port": 44123,
     "version": "1.21.1"
   },
   "position": {
@@ -50,7 +50,7 @@
     "circle-walk": {
       "enabled": true,
       "radius": 4,
-      "speed": 3000
+      "speed": 15
     },
     "look-around": {
       "enabled": true,
